@@ -1,1 +1,1 @@
-Sample file for testing jenkins
+Sample file for testing jenkins and pipeline project
